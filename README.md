@@ -2,6 +2,7 @@
 
 - 🎓 Graduando de Engenharia de Computação.
 - 📕 Estudanto Sistemas Embarcados.
+- 🤖 Projetista Robótico.
 
 ![VictorCalado13's Stats](https://github-readme-stats.vercel.app/api?username=VictorCalado13&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)     ![VictorCalado13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCalado13&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
