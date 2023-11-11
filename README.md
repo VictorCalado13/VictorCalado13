@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor Calado
 
 - 🎓 Acadêmico de Engenharia de Computação.
-- 📕 Estudanto Sistemas Embarcados.
+- 📕 Estudando Sistemas Embarcados.
 - 🤖 Projetista Robótico.
   
 
