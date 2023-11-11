@@ -3,8 +3,10 @@
 - 🎓 Acadêmico de Engenharia de Computação.
 - 📕 Estudanto Sistemas Embarcados.
 - 🤖 Projetista Robótico.
+  
 
 ![VictorCalado13's Stats](https://github-readme-stats.vercel.app/api?username=VictorCalado13&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)     ![VictorCalado13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorCalado13&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -12,8 +14,7 @@
   <img align="center" alt="Victor-Csharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Victor-Csharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Victor-Csharp" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-          
-          
+  <img align="center" alt="Victor-Csharp" height="30"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /> 
   <img align="center" alt="Victor-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
           
 </div>
